@@ -1,14 +1,4 @@
-# React Native Firebase Login Screen
-
-More templates at [ReactNativeMarket.com](http://reactnativemarket.com/) 💖
-
-This repo is proudly sponsored by
-
-<a href="https://nativeforms.com" rel="nofollow" target="_blank">
-  <img src="https://raw.githubusercontent.com/venits/native-forms/master/assets/sponsor.png" width="350"><br />
-  Build forms, surveys and polls for React Native apps.
-</a>
-
+# Learning App
 
 ## How to use?
 
@@ -53,16 +43,3 @@ expo eject
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/forgot.png)
 ![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/dashboard.png)
 
-## Live preview on Expo
-
-Template is available on Expo:
-https://expo.io/@venits/react-native-firebase-login-template-typescript
-
-## Support
-
-In case of any questions or problems, please contact me at:
-[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
-
-### Happy Coding 💖
-
-### [ReactNativeMarket.com](http://reactnativemarket.com/)
