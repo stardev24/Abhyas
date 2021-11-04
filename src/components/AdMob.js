@@ -9,7 +9,7 @@ const AdMob = ({ }) => (
   <View>
         <AdMobBanner
         adSize="smartBanner"
-        adUnitID="ca-app-pub-3940256099942544/2934735716"
+        adUnitID="xxx"
         testDeviceID=""
         didFailToReceiveAdWithError={this.bannerError} 
         style={styles.banner}
